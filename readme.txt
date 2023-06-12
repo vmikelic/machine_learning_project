@@ -1,4 +1,8 @@
-﻿Links to all dataset files:
+﻿
+
+Final project for machine learning class. Used the LIWC-22 text analysis tool and misinformation datasets to train models in classifying fake news.
+ 
+Links to all dataset files:
 https://eltnmsu-my.sharepoint.com/:f:/g/personal/kcorro_nmsu_edu/Eqi1rhCc2lVJjjN2HRUGr1kBINvDEHlgCAj0GcX1RBPdrw?e=n5ZR3F
 
 
